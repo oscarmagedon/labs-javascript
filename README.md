@@ -1,0 +1,1 @@
+Only Javascript solutions!
