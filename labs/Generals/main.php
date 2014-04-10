@@ -19,7 +19,8 @@
     <h3 class="second-title">What JS does?</h3>
 
     <p class="text-wrapper">
-        HTML Does Bla! CSS Does Bla! Javascript controls the behavior of the page.
+        HTML set all the elements on the document. CSS allows to set all the appereance and positions.
+        Javascript controls the behavior of each element of the page, even the whole document.
     </p>
 
     <h3 class="second-title">Our General Format</h3>
