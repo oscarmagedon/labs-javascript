@@ -1,3 +1,13 @@
+<script>
+    // Javascript statements
+</script>
+<style>
+   /* STYLE THINGS */
+</style>
+<div>
+    <!--  OUR HTML ELEMENTS -->
+</div>
+
 <div style="width: 80%">
     <h2 class="first-title">Hello programming world</h2>
 
@@ -9,6 +19,12 @@
     <h3 class="second-title">What JS does?</h3>
 
     <p class="text-wrapper">
+        HTML Does Bla! CSS Does Bla! Javascript controls the behavior of the page.
+    </p>
 
+    <h3 class="second-title">Our General Format</h3>
+
+    <p class="text-wrapper">
+        <script src="https://gist.github.com/oscarmagedon/7756b1c140d9e674f711.js"></script>
     </p>
 </div>
