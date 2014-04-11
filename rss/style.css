@@ -72,6 +72,7 @@ body{
     clear : none;
     border-radius: 5px;
     background-color: #7094DB;
+    overflow-y: auto;
 }
 
 #bad-request{
@@ -94,13 +95,19 @@ body{
 }
 .second-title{
     font-size: 125%;
-    padding: 5px 0 5px 15px;
+    padding: 2px 0 5px 15px;
     font-style: italic;
 }
 .text-wrapper{
     text-align: justify;
     margin: 5px 0 10px 10px;
     line-height: 140%;
+}
+.gist-code{
+    width: 90%;
+    border: 1px dotted #CCC;
+    padding: 5px;
+    border-radius: 6px;
 }
 .number-list {
     margin: 10px 0 10px 10px;

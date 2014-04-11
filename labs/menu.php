@@ -14,17 +14,23 @@ $menuActions = array(
     ,
     'Basics'      => array(
             array(
-                'title' => 'Basic-Coding',
-                'file'  => 'basicCoding'
+                'title' => 'I-Element-Manip.',
+                'file'  => 'elemManip'
             )
             ,
             array(
-                'title' => 'Variables-And-Arrays',
+                'title' => 'II-Vars-And-Arrays',
                 'file'  => 'varsAndArray'
-            ),
+            )
+            ,
             array(
-                'title' => 'Popups-Boxes',
+                'title' => 'III-Popups-Boxes',
                 'file'  => 'popupsBoxes'
+            )
+            ,
+            array(
+                'title' => 'IV-Functions',
+                'file'  => 'functions'
             )
     )
     ,
@@ -35,8 +41,8 @@ $menuActions = array(
             )
             ,
             array(
-                'title' => 'Elements',
-                'file'  => 'elements'
+                'title' => 'Loops',
+                'file'  => 'loops'
             )
 
     )
