@@ -7,42 +7,42 @@ $menuActions = array(
         )
         ,
         array(
-            'title' => 'Importance',
-            'file'  => 'importance'
-        )
-        ,
-        array(
-            'title' => 'How-to-use',
-            'file'  => 'howToUse'
-        )
-        ,
-        array(
-            'title' => 'Variables',
-            'file'  => 'variables'
+            'title' => 'Format',
+            'file'  => 'format'
         )
     )
     ,
-    'Animations'      => array(
+    'Basics'      => array(
             array(
-                'title' => 'First-Animation',
-                'file'  => 'firstAnimation'
+                'title' => 'I-Element-Manip.',
+                'file'  => 'elemManip'
             )
             ,
             array(
-                'title' => 'Other-Animation',
-                'file'  => 'otherAnimation'
+                'title' => 'II-Vars-And-Arrays',
+                'file'  => 'varsAndArray'
+            )
+            ,
+            array(
+                'title' => 'III-Popups-Boxes',
+                'file'  => 'popupsBoxes'
+            )
+            ,
+            array(
+                'title' => 'IV-Functions',
+                'file'  => 'functions'
             )
     )
     ,
-    'DOM' => array(
+    'Programming' => array(
             array(
-                'title' => 'Methods',
-                'file'  => 'methods'
+                'title' => 'Conditionals',
+                'file'  => 'conditionals'
             )
             ,
             array(
-                'title' => 'Elements',
-                'file'  => 'elements'
+                'title' => 'Loops',
+                'file'  => 'loops'
             )
 
     )
